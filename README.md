@@ -4,7 +4,7 @@ For this assignment, you're going to fork this repository to your own Github acc
 
 There are two parts to this assignment.
 
-__Part 1__: import the foodTrucksJSON.js data into your instance of mongodb by following the instructions in the dataImport.txt file in the Module_5 repository. Refactor the following routes (remove the /food-types and /food-types/:name routes for this assignment) to use a Mongoose model to retrieve, update, or delete the relevant data. You're going to define your truckModel module in a file called models/truckModel.js. The database you'll connect to is foodTruckAPI (this will be part of the connection string you use to connect in the [mongoose.connect()](http://slides.com/kinakuta/deck-10?token=mIjyUCbk#/14) call)
+__Part 1__: import the foodTrucksJSON.js data into your instance of mongodb by following the instructions in the dataImport.txt file in the Module_5 repository. In your express application, refactor the following routes (remove the /food-types and /food-types/:name routes for this assignment) to use a Mongoose model to retrieve, update, or delete the relevant data. You're going to define your truckModel module in a file called models/truckModel.js. The database you'll connect to is foodTruckAPI (this will be part of the connection string you use to connect in the [mongoose.connect()](http://slides.com/kinakuta/deck-10?token=mIjyUCbk#/14) call)
 
 __GET__ /trucks
 
