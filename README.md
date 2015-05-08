@@ -20,3 +20,5 @@ In your new route file you will use the express.router() method to create a rout
 Use the existing files in the Module_5 assignment repository. Additionally, make sure you've created the package.json file and added any necessary dependencies to it (e.g. express, body-parser, mongoose). Additionally, be sure to include a .gitignore file that excludes the node_modules directory from your own repository.
 
 Use the slides from [Module_4b](http://slides.com/kinakuta/deck-9?token=7P79fPdp#/) and [Module_5](http://slides.com/kinakuta/deck-10?token=mIjyUCbk#/) to see how to complete the two parts of this assignment.
+
+This assignment is due by Thursday, May 14th by 7pm. Once grading has been completed, a :+1: comment will be added to the pull request and the pull request will be closed.
